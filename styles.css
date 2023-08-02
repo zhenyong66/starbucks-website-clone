@@ -131,6 +131,7 @@ a {
 .ps-texts p {
     margin-top: 20px;
     margin-bottom: 20px;
+    font-size: 13px;
 }
 
 #tropical-cooldown {
